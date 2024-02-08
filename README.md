@@ -1,2 +1,40 @@
-# AreaPerimetroCirculo
-Programa para calcular el área y el perímetro de un círculo de radio R
+# Ejercicio No. 1
+
+## Calcular el area y el perimetro de un circulo de radio R.
+
+# ANALISIS
+
+Variable de entrada (imput)
+
+R: Radio del circulo
+
+Variables de proceso y salida (processing, storage, output)
+
+A: Area del circulo
+
+P: Perimetro del circulo
+
+# DISEÑO
+
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
+
+# CONSTRUCCION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
